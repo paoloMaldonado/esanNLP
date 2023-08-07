@@ -1,23 +1,27 @@
 ---
-title: Basic Data Structures
+title: Word Embeddings
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+1
+: [Pipelines de sklearn](#)
+  : [Codigo](#), [pdf](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+2
+: **Aplicación**{: .label .label-purple }Uso de Pipelines
+  : [Codigo](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+3
+: Word Embeddings 
+  : [pdf](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+4
+: [Introduccion a Gensim](#)
+  : [Codigo](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+5
+: [Transfer learning con embeddings](#)
+  : [Codigo](#), [pdf](#)
+
+6
+: **Aplicación**{: .label .label-purple }Caso de aplicación
+  : [Codigo](#)

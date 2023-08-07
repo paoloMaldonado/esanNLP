@@ -1,23 +1,27 @@
 ---
-title: Introduction to Java
+title: Introducción al Procesamiento de Lenguaje Natural con Scikit-learn
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+1
+: [Metodología general para problemas en NLP](#)
+  : [pdf](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+2
+: La librería scikit-learn (sklearn)
+  : []()
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+3
+: Predictors y “Transformers”
+  : []()
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+4
+: [Métodos fit(), predict(), transform()](#)
+  : [pdf](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+5
+: [Vectorización: Tf-idf ](#)
+  : [Codigo](#), [pdf](#)
+
+6
+: **Aplicación**{: .label .label-purple }Caso de aplicación
+  : [Codigo](#)

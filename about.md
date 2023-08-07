@@ -1,33 +1,31 @@
 ---
-layout: page
+layout: home
 title: About
-description: >-
-    Course policies and information.
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Curso
+  name: ESAN bootcamp
 ---
 
-# About
-{:.no_toc}
+# Técnicas de Machine Learning y Deep Learning aplicadas al Procesamiento de Lenguaje Natural
+{: .mb-2 }
+Universidad ESAN, 2023
+{: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
+**Instructor:** Paolo Maldonado
 
-1. TOC
-{:toc}
+**Horario:** Martes y Jueves 7:00 pm - 9:00 pm
 
----
+**Ubicación:** Zoom ([El link será publicado aquí](link))
 
-## About
+**Descripción del curso:** Este es un curso corto de 2 semanas (4 clases) que se centra en técnicas basadas en Machine Learning (ML) y Deep Learning (DL) aplicadas al campo del Procesamiento del Lenguaje Natural (NLP). El objetivo del curso es proporcionar una comprensión práctica de estas técnicas, desde lo fundamental hasta el estado del arte. El enfoque del curso es práctico, con casos de aplicación para cada módulo. Se utilizarán principalmente las librerías scikit-learn y tensorflow, junto con el lenguaje de programación Python. Al final del curso, los participantes estarán familiarizados con las herramientas y avances en NLP y estarán preparados para aplicarlas en diversos proyectos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+**Prerequisitos:** El curso tiene los siguientes prerequisitos:
 
-## Lecture
+- Dominio del lenguaje de programación Python
+- Conocimiento del paradigma orientado a objetos
+- Haber cursado como mínimo un curso relacionado a Inteligencia Artificial (deseable) 
+- Haber cursado “Inteligencia Artificial Avanzada" (deseable)
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
-
-## Resources
-
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
-
-## Assignments
-
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+**Contacto:** La mejor forma es por Whatsapp a través del grupo que se creará en la primera sesión. También pueden contactarme a través del correo [17200822@ue.edu.pe](mailto:17200822@ue.edu.pe) o [jmaldonado@esan.edu.pe](mailto:jmaldonado@esan.edu.pe).  

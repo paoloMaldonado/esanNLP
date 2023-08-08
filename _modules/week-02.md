@@ -3,25 +3,25 @@ title: Word Embeddings
 ---
 
 1
-: [Pipelines de sklearn](#)
-  : [Codigo](#), [pdf](#)
+: Pipelines de sklearn
+  : [](#)
 
 2
 : **Aplicación**{: .label .label-purple }Uso de Pipelines
-  : [Codigo](#)
+  : [](#)
 
 3
 : Word Embeddings 
-  : [pdf](#)
+  : [](#)
 
 4
-: [Introduccion a Gensim](#)
-  : [Codigo](#)
+: Introduccion a Gensim
+  : [](#)
 
 5
-: [Transfer learning con embeddings](#)
-  : [Codigo](#), [pdf](#)
+: Transfer learning con embeddings
+  : [](#)
 
 6
 : **Aplicación**{: .label .label-purple }Caso de aplicación
-  : [Codigo](#)
+  : [](#)

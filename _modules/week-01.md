@@ -25,4 +25,4 @@ title: Introducción al Procesamiento de Lenguaje Natural con Scikit-learn
 
 6
 : **Aplicación**{: .label .label-purple }Caso de aplicación
-  : [Notebook](/esanNLP/resources/sesion01/aplicacion/ManifestoProject.ipynb)
+  : [Notebook](https://github.com/paoloMaldonado/esanNLP/blob/d0868a3d5a8b55925d53956cde362afc26111381/resources/sesion01/aplicacion/ManifestoProject.ipynb)

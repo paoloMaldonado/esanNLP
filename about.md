@@ -17,7 +17,7 @@ Universidad ESAN, 2023
 
 **Horario:** Martes y Jueves 7:00 pm - 9:00 pm
 
-**Ubicación:** Zoom ([El link será publicado aquí](link))
+**Ubicación:** Zoom ([Link de reunión](https://zoom.us/j/95297105406?pwd=Q1FJeVBzOGNoekVXb1hrQ3p1MG5hQT09))
 
 **Descripción del curso:** Este es un curso corto de 2 semanas (4 clases) que se centra en técnicas basadas en Machine Learning (ML) y Deep Learning (DL) aplicadas al campo del Procesamiento del Lenguaje Natural (NLP). El objetivo del curso es proporcionar una comprensión práctica de estas técnicas, desde lo fundamental hasta el estado del arte. El enfoque del curso es práctico, con casos de aplicación para cada módulo. Se utilizarán principalmente las librerías scikit-learn y tensorflow, junto con el lenguaje de programación Python. Al final del curso, los participantes estarán familiarizados con las herramientas y avances en NLP y estarán preparados para aplicarlas en diversos proyectos.
 

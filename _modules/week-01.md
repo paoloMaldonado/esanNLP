@@ -20,7 +20,7 @@ title: Introducción al Procesamiento de Lenguaje Natural con Scikit-learn
 
 5
 : Vectorización: Tf-idf
-  : [pdf](/esanNLP/resources/sesion01/tfidf.pdf), [Notebook]() 
+  : [pdf](/esanNLP/resources/sesion01/tfidf.pdf), [Notebook](https://github.com/paoloMaldonado/esanNLP/blob/main/resources/sesion01/tf-idf.ipynb), [libro](https://web.stanford.edu/~jurafsky/slp3/6.pdf) 
 
 6
 : **Aplicación**{: .label .label-purple }Caso de aplicación

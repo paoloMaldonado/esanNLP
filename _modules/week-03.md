@@ -24,4 +24,4 @@ title: Deep Learning en NLP
 
 6
 : **Aplicación**{: .label .label-purple }Caso de aplicación
-  : [](#)
+  : [CNN](/esanNLP/resources/sesion03/CNN_aplicacion.ipynb)

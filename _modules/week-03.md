@@ -4,7 +4,7 @@ title: Deep Learning en NLP
 
 1
 : Deep Learning y NLP
-  : [](#)
+  : [pdf](/esanNLP/resources/sesion03/Deep_Learning_y_NLP.pdf)
 
 2
 : Validation set: ¿Por qué es importante?

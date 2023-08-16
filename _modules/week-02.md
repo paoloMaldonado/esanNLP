@@ -20,7 +20,7 @@ title: Word Embeddings
 
 5
 : Transfer learning con embeddings
-  : [Pretrained embeddings](https://drive.google.com/drive/folders/1i9Bgl_Dyz9WBEJaz9aNHkxlLwpCy6Ufu?usp=sharing)
+  : [pdf](/esanNLP/resources/sesion02/Transfer_Learning.pdf), [Pretrained embeddings](https://drive.google.com/drive/folders/1i9Bgl_Dyz9WBEJaz9aNHkxlLwpCy6Ufu?usp=sharing)
 
 6
 : **Tarea**{: .label .label-red }Caso de aplicación

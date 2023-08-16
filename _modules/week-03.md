@@ -16,7 +16,7 @@ title: Deep Learning en NLP
 
 4
 : Redes Neuronales Convolucionales (CNN) aplicadas a texto
-  : [](#)
+  : [slides](/esanNLP/resources/sesion03/CNN_diagrama.pdf)
 
 5
 : Redes Neuronales Recurrentes (RNN)

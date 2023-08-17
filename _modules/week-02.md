@@ -24,4 +24,4 @@ title: Word Embeddings
 
 6
 : **Tarea**{: .label .label-red }Caso de aplicación
-  : [](#)
+  : [Tarea](/esanNLP/resources/sesion02/Tarea.pdf)

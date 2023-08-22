@@ -20,4 +20,4 @@ title: Deep Learning en NLP y Redes Neuronales Convolucionales
 
 5
 : **Aplicación**{: .label .label-purple }Caso de aplicación
-  : [CNN](/esanNLP/resources/sesion03/CNN_aplicacion.ipynb)
+  : [Notebook](/esanNLP/resources/sesion03/CNN_aplicacion.ipynb)

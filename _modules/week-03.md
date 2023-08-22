@@ -1,5 +1,5 @@
 ---
-title: Deep Learning en NLP
+title: Deep Learning en NLP y Redes Neuronales Convolucionales
 ---
 
 1
@@ -8,7 +8,7 @@ title: Deep Learning en NLP
 
 2
 : Validation set: ¿Por qué es importante?
-  : [](#)
+  : [pdf](/esanNLP/resources/sesion03/TensorflowII.pdf)
 
 3
 : Introducción a Tensorflow
@@ -16,12 +16,8 @@ title: Deep Learning en NLP
 
 4
 : Redes Neuronales Convolucionales (CNN) aplicadas a texto
-  : [slides](/esanNLP/resources/sesion03/CNN_diagrama.pdf)
+  : [slides](/esanNLP/resources/sesion03/CNN_diagrama.pdf), [pdf](/esanNLP/resources/sesion03/Redes_Neuronales_Convolucionales.pdf)
 
 5
-: Redes Neuronales Recurrentes (RNN)
-  : [](#)
-
-6
 : **Aplicación**{: .label .label-purple }Caso de aplicación
   : [CNN](/esanNLP/resources/sesion03/CNN_aplicacion.ipynb)

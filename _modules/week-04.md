@@ -1,27 +1,11 @@
 ---
-title: Transformers
+title: Redes Neuronales Recurrentes (RNN)
 ---
 
 1
-: Transformers: Introducción
-  : [](#)
+: Introducción: Elman Networks y LSTM
+  : [pdf](/esanNLP/resources/sesion04/Redes_Neuronales_Recurrentes.pdf), [libro](https://web.stanford.edu/~jurafsky/slp3/9.pdf)
 
 2
-: BERT (Bidirectional Encoder Representations from Transformers)
-  : [](#)
-
-3
-: BERT en tensorflow
-  : [](#)
-
-4
-: Introducción a “transformers” de HuggingFace con BERT
-  : [](#)
-
-5
-: BETO (spanish BERT)
-  : [](#)
-
-6
-: **Aplicación**{: .label .label-purple }NLP aplicado al idioma español
-  : [](#)
+: **Aplicación**{: .label .label-purple }Caso de aplicación (LSTM)
+  : [Notebook](/esanNLP/resources/sesion04/LSTM_aplicacion.ipynb)
